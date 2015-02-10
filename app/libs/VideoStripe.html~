@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<!-- saved from url=(0154)https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1 -->
+<html lang="en" id="movie01v4"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>VideoStripe</title>
+    
+    <meta content="noindex, nofollow" name="googlebot">
+    <meta content="noindex, nofollow" name="robots">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+    <link id="page_favicon" href="https://media-fire.org/static/favicon.ico" rel="icon" type="image/x-icon">
+    <link id="page_favicon" href="https://media-fire.org/static/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+    <script>
+      
+    </script>
+
+        <link href="./VideoStripe_files/jquery.powertip.min.css" rel="stylesheet" type="text/css">
+        <link href="./VideoStripe_files/movie01_common.css" rel="stylesheet" type="text/css">
+        <link href="./VideoStripe_files/lang-chooser.css" rel="stylesheet" type="text/css">
+        <link href="./VideoStripe_files/_lp_movie01v4.css" rel="stylesheet" type="text/css">
+
+        <script type="text/javascript" src="./VideoStripe_files/jquery.min.js"></script>
+        <script type="text/javascript" src="./VideoStripe_files/jquery.serializeobject.min.js"></script>
+        <script type="text/javascript" src="./VideoStripe_files/jquery.json.min.js"></script>
+        <script type="text/javascript" src="./VideoStripe_files/jquery.powertip.min.js"></script>
+        <script type="text/javascript" src="./VideoStripe_files/underscore.min.js"></script>
+        <script type="text/javascript" src="./VideoStripe_files/flowplayer.min.js"></script>
+        <script type="text/javascript" src="./VideoStripe_files/lang-chooser.js"></script>
+        <script type="text/javascript" src="./VideoStripe_files/lp-script-1.js"></script>
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-46758758-2', 'media-fire.org');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+        ga(function(tracker) {
+          window.gaClientId = tracker.get('clientId');
+        });
+    </script>
+
+  </head>
+  <body>
+    <div id="overlay"></div>
+
+<div id="confirmation-text" style="display: none;">
+  You are not registered yet! To watch&nbsp;this&nbsp;and other movies without limits, you have to activate your account!
+</div>
+
+
+<div id="top">
+  <div class="frame">
+    <div class="logo">video<span>stripe</span></div>
+    <div class="right">
+
+      <div class="general_wrapper movie01v4">
+        
+
+<div class="social flags">
+  <ul class="nav">
+    <li class="dropdown">
+      <a class="dropdown-toggle" href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#">
+        <img alt="" src="./VideoStripe_files/en.png">
+        <span>English</span>
+      </a>
+      <ul class="dropdown-menu">
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="en"><img alt="En" src="./VideoStripe_files/en.png">English</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="fr"><img alt="Fr" src="./VideoStripe_files/fr.png">Français</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="es"><img alt="Es" src="./VideoStripe_files/es.png">Español</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="it"><img alt="It" src="./VideoStripe_files/it.png">Italiano</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="cs"><img alt="Cs" src="./VideoStripe_files/cs.png">Čeština</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="tr"><img alt="Tr" src="./VideoStripe_files/tr.png">Türkçe</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="de"><img alt="De" src="./VideoStripe_files/de.png">Deutsch</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="pt"><img alt="Pt" src="./VideoStripe_files/pt.png">Português</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="hr"><img alt="Hr" src="./VideoStripe_files/hr.png">Hrvatski</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="hu"><img alt="Hu" src="./VideoStripe_files/hu.png">Magyar</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="ro"><img alt="Ro" src="./VideoStripe_files/ro.png">Român</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="ru"><img alt="Ru" src="./VideoStripe_files/ru.png">Pусский</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="ja"><img alt="Ja" src="./VideoStripe_files/ja.png">日本の)</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="el"><img alt="El" src="./VideoStripe_files/el.png">Eλληνικά</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="da"><img alt="Da" src="./VideoStripe_files/da.png">Dansk</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="fi"><img alt="Fi" src="./VideoStripe_files/fi.png">Suomi</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="no"><img alt="No" src="./VideoStripe_files/no.png">Norsk</a>
+          </li>
+          <li>
+            <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" data="sv"><img alt="Sv" src="./VideoStripe_files/sv.png">Svenska</a>
+          </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+      </div>
+
+      <div class="links">
+        <a href="https://videostripe.com/">Log In</a>
+        <div class="vline"></div>
+        <a href="https://media-fire.org/?lang=en&sid=400f3aa400bbcdf71059f814979071cce9339b91&p=99061&pctx=27546555221&m=&lp=movie01v4&pn=vod&cus_subid=9764&poc=1&angrin=1#" class="show-registration-form">Sign Up</a>
+      </div>
+
+      <div class="tw show-registration-form"></div>
+      <div class="fb show-registration-form"></div>
+
+    </div>
+  </div>
+</div>
+
+<div id="color-line">
+</div>
+
+<div id="middle">
+  <div class="frame">
+
+
+    <div id="video-container">
+      <div class="title-bar" style="border-bottom: none;">
+        <div class="left">
+          <h1 style="margin-top:15px;"></h1>
+        </div>
+      </div>
+      <div class="full-size movie-image"></div>
+      <div class="full-size overlay"></div>
+      <div class="play-btn"></div>
+      <div class="loader">
+        <div class="anim"></div>
+        <div class="tip">Loading: <span>0</span>%</div>
+      </div>
+
+      <div class="player-bar">
+        <div class="play"></div>
+        <div class="progress-bar">
+          <div class="loaded"></div>
+        </div>
+        <div class="timer">
+          <span class="current">0:00</span>
+          &nbsp;&nbsp;
+          <span class="total">01:24:48</span>
+        </div>
+        <div class="vol"></div>
+        <div class="fullscreen"></div>
+      </div>
+
+      <div class="dvd-logo"></div>
+      <div class="fhd-logo"></div>
+    </div>
+
+  </div>
+</div>
+
+<div id="bottom">
+  <div class="color-bar"></div>
+  <div class="frame">
+
+
+    <div class="infoboxes">
+      <div class="box b1">
+        <div class="fake-checkbox-1 blue"></div>
+        <h3>Only legal content</h3>
+        
+        The users of VideoStripe are entitled to watch all movies from our database. 
+      </div>
+      <div class="box b2">
+        <div class="fake-checkbox-1 green"></div>
+        <h3>No annoying buffering</h3>
+        Our priority is to provide our users with the best cinema experience.
+      </div>
+      <div class="box b3">
+        <div class="fake-checkbox-1 orange"></div>
+        <h3>High quality movies</h3>
+        All of the movies are available in the superior HD quality or even higher!
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div id="footer">
+  <div class="frame">
+    <div class="copyright">
+      Copyright © 2014 videostripe.com
+    </div>
+
+    
+
+<div class="links">
+  <a href="https://videostripe.com/terms-of-use?locale=en&set_lang=en" target="_blank">
+    Terms of Use
+  </a>
+  <a href="https://videostripe.com/privacy-policy?locale=en&set_lang=en" target="_blank">
+    Privacy Policy
+  </a>
+  <a href="https://videostripe.com/support?locale=en&set_lang=en" target="_blank">
+    Support
+  </a>
+</div>
+
+  </div>
+</div>
+
+  
+
+</body></html>
